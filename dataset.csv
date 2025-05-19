@@ -1,0 +1,16 @@
+Position,Batsman,Team,Matches,Innings,Not_out,Runs,Highest_score,Average,Balls_faced,Strike_rate,Hundreds,Fifties,Ducks,Fours,Sixes
+1,Sai Sudharsan,GT,8,8,0,417,82,52.12,274,152.18,0,5,0,42,15
+2,Nicholas Pooran,LSG,9,9,1,377,87,47.12,184,204.89,0,4,0,32,31
+3,Suryakumar Yadav,MI,9,9,3,373,68,62.16,224,166.51,0,2,0,38,19
+4,Jos Buttler,GT,8,8,3,356,97,71.2,215,165.58,0,3,1,40,13
+5,Mitchell Marsh,LSG,8,8,0,344,81,43.0,214,160.74,0,4,1,33,18
+6,Aiden Markram,LSG,9,9,0,326,66,36.22,216,150.92,0,4,0,28,15
+7,KL Rahul,DC,7,7,2,323,93,64.6,210,153.8,0,3,0,25,16
+8,Virat Kohli,RCB,8,8,3,322,73,64.4,230,140.0,0,4,0,27,11
+9,Yashasvi Jaiswal,RR,8,8,0,307,75,38.37,220,139.54,0,4,0,25,17
+10,Shubman Gill,GT,8,8,1,305,90,43.57,199,153.26,0,3,0,33,9
+11,Heinrich Klaasen,SRH,8,8,1,281,71,40.14,176,159.65,0,1,0,27,12
+12,Ajinkya Rahane,KKR,8,8,1,271,61,38.71,185,146.48,0,3,0,24,15
+13,Shreyas Iyer,PBKS,8,8,2,263,97,43.83,142,185.21,0,3,1,17,20
+14,Priyansh Arya,PBKS,8,8,0,254,103,31.75,126,201.58,1,1,1,24,18
+15,Travis Head,SRH,8,8,0,242,67,30.25,148,163.51,0,2,1,33,9
