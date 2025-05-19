@@ -122,6 +122,4 @@ Instructions:
                 st.text(result.stderr)
 
  
-       # with st.expander("🧠 Conversation History"):
-        #    for msg in st.session_state.memory.chat_memory.messages:
-         #       st.markdown(f"**{msg.type.title()}:** {msg.content}")
+      
