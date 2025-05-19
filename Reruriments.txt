@@ -1,0 +1,10 @@
+🔒 Requirements
+Python 3.8+
+
+Ollama
+
+Streamlit
+
+LangChain
+
+pandas, matplotlib, seaborn
