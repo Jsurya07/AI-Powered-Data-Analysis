@@ -1,4 +1,4 @@
-# AI-Powered-Data-Analysis
+# AI-Powered-Data-Analysis(LLM Model)
 
 A Streamlit app that uses large language models (LLMs) to turn natural language questions into Python data analysis code. Just upload a CSV file, ask your question, and get instant analysis with charts and summaries. Supports context-aware follow-ups with memory!
 
